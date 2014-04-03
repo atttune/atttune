@@ -1,0 +1,9 @@
+cache/*
+core/*
+config/*
+controller/*
+model/*
+view/layout/*
+lib/*
+webroot/*
+zave/*
