@@ -7,3 +7,5 @@ view/layout/*
 lib/*
 webroot/*
 zave/*
+nbproject/*
+view/*
