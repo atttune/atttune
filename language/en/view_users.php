@@ -135,7 +135,7 @@ $tv = array(
 'fdbck_title_welcome'=>'Welcome on Atttune',
 'fdbck_title_search'=>"Here is the search field.",
 'fdbck_title_user_list'=>"The users list.",
-'fdbck_title_user_panel'=>"An user profil windows.",
+'fdbck_title_user_panel'=>"A user profile window.",
 'fdbck_title_side_bar'=>"Side bar",
     
 'fdbck_title_quick_launch'=>"Quick launch buttons",
@@ -143,12 +143,12 @@ $tv = array(
 'fdbck_title_footer_bar'=>'This is the footer bar',
 'fdbck_title_user_interest'=>"List of tags, interests, skills, whatever...",
 'fdbck_title_all_interest'=>'List of trends today',
-'fdbck_title_side_invitation'=>"Invite your friend on Atttune",   
+'fdbck_title_side_invitation'=>"Invite your friends to Atttune",   
     
     'fdbck_user_apps'=>"Add your favorite social natework and improve your visibility",
 'fdbck_user_my_interest'=>"Your like , passion , interest bucket ! Just drag and drop tags you like here here  !!!",
 'fdbck_side_enjoy'=>"Thank you for joining Atttune , if it is not yet <a href=\\\"https://www.atttune.com/signup\\\"> GO THERE !!</a>",
-'fdbck_user_status'=>"Send you status what you do or a invitation message !!",
+'fdbck_user_status'=>"Send your status, what you're doing or an invite",
  
     'fdbck_title_user_apps'=>"Apps widget",
     'fdbck_title_user_my_interest'=>"Your interest bucket",
