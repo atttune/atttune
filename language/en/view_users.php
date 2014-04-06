@@ -11,10 +11,15 @@ $tv = array(
                                   'ko'=>'한국어',
                                   'pt'=>'Português',
                                   'ru'=>'Русский',
-                                  'm'=>'Men',
-                                  'w'=>'Women',
+                                  'es'=>'Español',
+                                  'it'=>'Italiano',
+                                  'ja'=>'日本語',
+                                  'hi'=>'हिन्दी',
+                                  'zh'=>'中文',
+                                  
                                   'nosay'=>'Prefer not to say',
                                   
+    //text for user edit -> atttune.com/profile/ID123456
                                   'g_profile'=>'Profile',
                                   'g_edit'=>' Edit',
                                   'g_picture'=>' Picture',
@@ -23,15 +28,18 @@ $tv = array(
                                   'g_blocked'=>' Block',
                                   'g_report'=>'Report',
                                   'vu_editprofil'=>'Edit your profile',
-                                  'vfd_few_words'=>'What\'s up?'
+                                  'vfd_few_words'=>'What\'s up?',
                                   'vfd_type_search'=>'What are you looking for?',
                                   
                                   'g_update'=>'Update',
+    //text for atttune.com/password-recovery
                                   'g_forgot_title'=>'Forgot password',
                                   'g_back'=>'Back',
                                   'g_forgot'=>'Forgot your password?',
                                   'forgot_pass'=>'Enter your email adress',
                                   'g_newpass'=>'Get a new password',
+    
+    //text for signup form atttune.com/signup
                                   'fgt_pseudo_used'=>'This pseudo isn\'t available',
                                   'invalid_email'=>'Invalid email address',
                                   'fgt_email_absent'=>'This email address is not in our database',
@@ -42,18 +50,6 @@ $tv = array(
                                   'vu_forgot'=>'Forgot your password?',
                                   'vu_kcnx'=>'Remember me',
                                   'vu_cnx'=>'Connect',
-                                  'prem_period3'=>'10$ / 3 months',
-                                  'prem_visibility'=>'Improve your visibility',
-                                  'prem_nbshow'=>'View more profiles',
-                                  'prem_hide'=>'Invisible mode',
-                                  'prem_ads'=>'Remove ads',
-                                  'prem_choise'=>'Filter visitors',
-                                  'g_suscribe'=>'Suscribe',
-                                  'prem_period6'=>'20$ / 6 months',
-                                  'prem_period12'=>'40$ / 12 months',
-                                  'g_continue'=>'Continue',
-                                  'go_signin'=>'Sign In',
-                                  'go_signup'=>'Sign Up',
                                   'mth'=>'Month',
                                   'mth1'=>'January',
                                   'mth2'=>'February',
@@ -70,6 +66,8 @@ $tv = array(
                                   'day'=>'Day',
                                   'yea'=>'Year',
                                   'uare'=>'Gender',
+                                  'm'=>'Men',
+                                  'w'=>'Women',
                                   'vu_Signup'=>'Sign up',
                                   'vu_first_name'=>'First Name',
                                   'vu_second_name'=>'Second Name',
@@ -82,12 +80,41 @@ $tv = array(
                                   'vu_my_tags_pholder'=>'Interests, passions, skills, causes: simply add a comma-separated list of your interests and connect with people nearby ^_^',
                                   'g_signup'=>'Sign up',
                                   'add_tag'=>'Add this tag',
+    
+    
+    //text for signup landing title
+    'title_improve'=>'Improve your online presence',
+    'title_social'=>'Have a social impact',
+    'title_nearby'=>'Find interesting people nearby',
+    'title_hi5'=>'Hi five buddy ( ^ - ^ )',
+    
+    //text for signup landing title
+    'p_improve'=>'You\'re on a lot of fun social network to say what you love, to connect with people and change the world !! But if people don\'t know who you are, don\'t have your ID... How will they find you?)  On Atttune you\'re matched by what matters most for you.  And guess what...on google to ^_^',
+    'p_social'=>'Atttune is not just "another social network :-[]". You can use it to create community, identify and organize with people having the same goals as you are and have a social impact !!',
+    'p_nearby'=>'Atttune lets you connect with people nearby with similar interests, skills, passions, etc. Simply add what you love, simply search for what you want.',
+    'p_hi5'=>'Enjoy, love, and always pursuing your dream. We wish you all the best and happiness as possible. You\'re all fantastic and we always appreciate your comments, feedbacks and supports  <i class="icon-thumbs-up"></i><br>Best @tttune team',
+    'just_try_desk'=>'Just try on google',
+    'just_try_mobi'=>'search on google: @tttune music',
+    'cnx_facebook'=>'Sign Up with Facebook',
+    'welcome_title'=>'Hello, welcome to Atttune',
+    'welcome_sentence'=>'A local social network to connect people having similar interests.',
+    'go_ahead'=>'Go ahead !!',
+    //text for user suscription -> atttune.com/suscribe
+                                  'prem_period3'=>'10$ / 3 months',
+                                  'prem_visibility'=>'Improve your visibility',
+                                  'prem_nbshow'=>'View more profiles',
+                                  'prem_hide'=>'Invisible mode',
+                                  'prem_ads'=>'Remove ads',
+                                  'prem_choise'=>'Filter visitors',
+                                  'g_suscribe'=>'Suscribe',
+                                  'prem_period6'=>'20$ / 6 months',
+                                  'prem_period12'=>'40$ / 12 months',
+                                  'g_continue'=>'Continue',
+                                  'go_signin'=>'Sign In',
+                                  'go_signup'=>'Sign Up',
+                                  
                                   'vu_title_view'=>'@tttune - ',
-                                  'es'=>'Español',
-                                  'it'=>'Italiano',
-                                  'ja'=>'日本語',
-                                  'hi'=>'हिन्दी',
-                                  'zh'=>'中文',
+                                  
                                   'u_visitor'=>'Visitor',
                                   'u_member'=>'Member',
                                   'u_premium'=>'Premium member',
@@ -116,7 +143,7 @@ $tv = array(
                                 'btn_pics'=>'Gallery',
                                 'btn_tags'=>'My tags list',
                                 'placeh_write_me'=>'Write me ...',
-    
+//text for the guide tour    
 'fdbck_welcome'=>'Welcome to Atttune a social network where you can find people having interests you like. It\'s easy to say what you like and discuss with people nearby !!',
 'fdbck_search'=>"Type interests, skills, whatever stuff you looking for in people. You can find list of profile having this tags in you area. You can use ',' to do multiple search",
 'fdbck_user_list'=>"Here is the list of matches nearby.  Click on a tag to see matches sharing the same interest within close proximity to you",
@@ -154,28 +181,11 @@ $tv = array(
     'fdbck_title_user_my_interest'=>"Your interest bucket",
     'fdbck_title_side_enjoy'=>"Enjoy Atttune",
     'fdbck_title_user_status'=>"Post what you want",
-    
+    //text on facebook share buutton
     'share_title'=>"How to create a global community as easily as writing a message on facebook",
     'share_description'=>"Hi, I want to invite you on a global community on Atttune about : ",
     'share_description2'=>" ! Go there, you will find people nearby linking by differents passions, skills or interests !! You can easily create your own communities too!",
 
-    //text for signup view
-    'title_improve'=>'Improve your online presence',
-    'title_social'=>'Have a social impact',
-    'title_nearby'=>'Find interesting people nearby',
-    'title_hi5'=>'Hi five buddy ( ^ - ^ )',
-    
-    //text for signup view
-    'p_improve'=>'You\'re on a lot of fun social network to say what you love, to connect with people and change the world !! But if people don\'t know who you are, don\'t have your ID... How will they find you?)  On Atttune you\'re matched by what matters most for you.  And guess what...on google to ^_^',
-    'p_social'=>'Atttune is not just "another social network :-[]". You can use it to create community, identify and organize with people having the same goals as you are and have a social impact !!',
-    'p_nearby'=>'Atttune lets you connect with people nearby with similar interests, skills, passions, etc. Simply add what you love, simply search for what you want.',
-    'p_hi5'=>'Enjoy, love, and always pursuing your dream. We wish you all the best and happiness as possible. You\'re all fantastic and we always appreciate your comments, feedbacks and supports  <i class="icon-thumbs-up"></i><br>Best @tttune team',
-    'just_try_desk'=>'Just try on google',
-    'just_try_mobi'=>'search on google: @tttune music',
-    'cnx_facebook'=>'Sign Up with Facebook',
-    'welcome_title'=>'Hello, welcome to Atttune',
-    'welcome_sentence'=>'A local social network to connect people having similar interests.',
-    'go_ahead'=>'Go ahead !!'
     );
 
 ?>
