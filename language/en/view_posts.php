@@ -14,7 +14,7 @@ $tv = array(
                                   'faq'=>'Frequently asked questions',
                                   'privacy'=>'Privacy',
                                   'privacy_policy'=>'Privacy policy',
-                                  'term'=>'Term of use',
+                                  'term'=>'Terms of use',
                                       
     
     
