@@ -1,7 +1,7 @@
 <?php
 
 $tv = array(                      
-                                   'media_title_pics'=>'@tttune - Photos gallery',
+                                   'media_title_pics'=>'@tttune - Photo gallery',
                                    'media_title_view_pics'=>'@tttune - View pictures',
                                   'g_profile'=>'Profile',
                                   'add_pics'=>'Add pictures',
