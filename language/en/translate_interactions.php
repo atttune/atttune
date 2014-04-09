@@ -17,7 +17,7 @@ $h = array(
                                   'cf_blocked'=>'This peron can\'t view yor profile now',
                                   'cf_stillblocked'=>'This person is still on your blacklist',
                                   'cf_reportabuse'=>'Your notification was save to solve problem',
-                                  'ct_correctinfo'=>'Thanks your to correct your information',
+                                  'ct_correctinfo'=>'Thanks.  Your data has been updated',
                                   'cf_likeadded'=>'Like added',
                                   'cf_likeremoved'=>'Like removed',
                                       
