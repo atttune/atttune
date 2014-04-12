@@ -10,5 +10,6 @@ $mus=array(
     'w'=>'Women',
     'm'=>'Men',
     'vfd_online'=>'Online',
-    'vfd_save'=>'Save');
+    'vfd_save'=>'Save'
+);
 ?>
